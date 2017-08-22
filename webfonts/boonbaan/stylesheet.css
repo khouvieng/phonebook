@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'boonbaan';
+	src: url('boonbaan-webfont.eot');
+	src: url('boonbaan-webfont.eot?#iefix') format('embedded-opentype'),
+		url('boonbaan-webfont.woff') format('woff'),
+		url('boonbaan-webfont.ttf') format('truetype');
+}

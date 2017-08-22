@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_showphonebook_user" value="name:id_phonebook;datatype:int,name:firstname;datatype:string,name:lastname;datatype:string,name:ranks;datatype:string,name:position;datatype:string,name:department;datatype:string,name:tel;datatype:string,name:home;datatype:string,name:remarrk;datatype:string" />
+</info>

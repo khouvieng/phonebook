@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edit_profile" value="name:id_users;datatype:int,name:username_login;datatype:string,name:user_password;datatype:string,name:user_level;datatype:string,name:user_registered;datatype:datetime,name:last_login;datatype:datetime" />
+</info>

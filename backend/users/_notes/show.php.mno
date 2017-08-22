@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_show_users" value="name:id_users;datatype:int,name:username_login;datatype:string,name:user_password;datatype:string,name:user_level;datatype:string,name:user_registered;datatype:datetime,name:last_login;datatype:datetime" />
+	<infoitem key="UD_delete_users" value="name:id_users;datatype:int,name:username_login;datatype:string,name:user_password;datatype:string,name:user_level;datatype:string,name:user_registered;datatype:datetime,name:last_login;datatype:datetime" />
+	<infoitem key="UD_search_users" value="name:id_users;datatype:int,name:username_login;datatype:string,name:user_password;datatype:string,name:user_level;datatype:string,name:user_registered;datatype:datetime,name:last_login;datatype:datetime" />
+	<infoitem key="UD_paging" value="name:id_phonebook;datatype:int,name:firstname;datatype:string,name:lastname;datatype:string,name:ranks;datatype:string,name:position;datatype:string,name:department;datatype:string,name:tel;datatype:string,name:home;datatype:string,name:remarrk;datatype:string" />
+</info>
